@@ -815,11 +815,11 @@
 - [ ] at least 2
 - [ ] at least five
 - [ ] at least seven
-- [ ] as many as are relevent
+- [x] as many as are relevent
 
 #### Q103. What tag would you use to indicate to Google that a language-specific version of a page exists for French speakers in Canada?
 
-- [ ] `<link rel="alternate" href="domain.com/fr/" hreflang="fr-ca" />`
+- [x] `<link rel="alternate" href="domain.com/fr/" hreflang="fr-ca" />`
 - [ ] `<link rel="canonical" href="domain.com/fr/" hreflang="fr-ca" />`
 - [ ] `<meta content-language="fr-ca" />`
 - [ ] `<a href lang="fr-ca" />`
@@ -829,4 +829,4 @@
 - [ ] an exact match domain name
 - [ ] a partial match domain name
 - [ ] a broad match domain name
-- [ ] a domain name that fits their branding
+- [x] a domain name that fits their branding
